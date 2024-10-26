@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chandrabhan Gadeshwar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s](https://miro.medium.com/v2/resize:fit:1400/0*JfHewXVjgsp7r3ZK.gif)">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*JfHewXVjgsp7r3ZK.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandu7a7&label=Profile%20views&color=0e75b6&style=flat" alt="chandu7a7" /> </p>
 
