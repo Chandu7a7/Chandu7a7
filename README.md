@@ -6,11 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandu7a7&label=Profile%20views&color=0e75b6&style=flat" alt="chandu7a7" /> </p>
 
-- 🔭 I’m currently working on [connect-shiksha](https://connectshiksha.com/)
+- 🥇 Winner Smart India Hackathon 2025 (Software Edition).
 
 - 🌱 I’m currently learning **Java , React Native**
 
-- 👯 I’m looking to collaborate on **Parull Travel website**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/chandu7a7](https://linktr.ee/chandu7a7)
 
